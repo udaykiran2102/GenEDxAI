@@ -71,7 +71,7 @@ Git
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/mohan13krishna/GenEDxAI.git
+   git clone https://github.com/udaykiran2102/GenEDxAI.git
    cd GenEDxAI
    ```
 
@@ -224,7 +224,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/mohan13krishna/GenEDxAI.git
+   git fork https://github.com/udaykiran2102/GenEDxAI.git
    ```
 
 2. **Create Feature Branch**
@@ -330,10 +330,10 @@ Have an idea? We'd love to hear it! Submit a feature request with:
 
 <div align="center">
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mohan13krishna/GenEDxAI?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mohan13krishna/GenEDxAI?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/mohan13krishna/GenEDxAI?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/mohan13krishna/GenEDxAI?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/udaykiran2102/GenEDxAI?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/udaykiran202/GenEDxAI?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/udaykiran2102/GenEDxAI?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/udaykiran2102/GenEDxAI?style=for-the-badge)
 
 </div>
 
@@ -381,16 +381,16 @@ We extend our heartfelt gratitude to:
 ### 🔗 **Important Links**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-GenEDxAI-success?style=for-the-badge)](https://genedxai.onrender.com)
-[![GitHub Repository](https://img.shields.io/badge/📁_Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohan13krishna/GenEDxAI)
-[![Documentation](https://img.shields.io/badge/📚_Docs-Wiki-blue?style=for-the-badge)](https://github.com/mohan13krishna/GenEDxAI/wiki)
+[![GitHub Repository](https://img.shields.io/badge/📁_Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/udaykiran2102/GenEDxAI)
+[![Documentation](https://img.shields.io/badge/📚_Docs-Wiki-blue?style=for-the-badge)](https://github.com/udaykiran2102/GenEDxAI/wiki)
 
 ### 💬 **Get in Touch**
 
 Have questions? Need support? Want to collaborate?
 
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Us-red?style=for-the-badge)](mailto:genedxai@gmail.com)
-[![Issues](https://img.shields.io/badge/🐛_Issues-Report_Bug-orange?style=for-the-badge)](https://github.com/mohan13krishna/GenEDxAI/issues)
-[![Discussions](https://img.shields.io/badge/💭_Discussions-Join_Chat-purple?style=for-the-badge)](https://github.com/mohan13krishna/GenEDxAI/discussions)
+[![Issues](https://img.shields.io/badge/🐛_Issues-Report_Bug-orange?style=for-the-badge)](https://github.com/udaykiran2102/GenEDxAI/issues)
+[![Discussions](https://img.shields.io/badge/💭_Discussions-Join_Chat-purple?style=for-the-badge)](https://github.com/udaykiran2102/GenEDxAI/discussions)
 
 </div>
 
@@ -402,7 +402,7 @@ Have questions? Need support? Want to collaborate?
 
 If you find GenEDxAI helpful, please consider giving us a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mohan13krishna/GenEDxAI&type=Date)](https://star-history.com/#mohan13krishna/GenEDxAI&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=udaykiran2102/GenEDxAI&type=Date)](https://star-history.com/#udaykiran2102/GenEDxAI&Date)
 
 ---
 
